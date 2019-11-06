@@ -4,5 +4,5 @@ language: ruby
 services:
  - git
 
-install:
+before_install:
  - sh Install.sh
