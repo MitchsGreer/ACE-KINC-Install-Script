@@ -1,0 +1,8 @@
+
+language: ruby
+
+services:
+ - git
+
+install:
+ - sh Install.sh
